@@ -8,11 +8,7 @@ Welcome to my personal portfolio repository! This website showcases my journey, 
 
 ## 🚀 Live Demo
 
-🔗 **Portfolio:** *(Add your Vercel URL here after deployment)*
-
-Example:
-
-https://your-portfolio.vercel.app
+🔗 https://my-personal-portfolio-wine-six.vercel.app
 
 ---
 
@@ -132,7 +128,7 @@ Currently learning and improving my skills in:
 tnvrrabbanijob@gmail.com
 
 💼 LinkedIn:
-https://www.linkedin.com/in/tanveer-rabbani
+https://www.linkedin.com/in/tanveer-rabbani-a-870729362/
 
 🐙 GitHub:
 https://github.com/tanveerrabbani5

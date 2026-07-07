@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Projects | Tanveer Rabbani</title>
+
+<link rel="stylesheet" href="style.css">
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+
+<link rel="stylesheet"
+href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+</head>
+
+<body>
+
+<!-- NAVBAR -->
+
+<nav class="navbar">
+
+<div class="logo">
+<div class="logo-icon">T</div>
+<span>TANVEER</span>
+</div>
+
+<ul>
+<li><a href="index.html">About</a></li>
+<li><a href="journey.html">Journey</a></li>
+<li><a href="projects.html">Projects</a></li>
+<li><a href="contact.html">Contact</a></li>
+
+<li>
+<button id="shareBtn">
+<i class="fas fa-share"></i>
+</button>
+</li>
+
+</ul>
+
+</nav>
+
+<!-- HEADER -->
+
+<section class="projects-header">
+
+<div class="projects-title">
+
+<div class="title-icon">
+<i class="fas fa-terminal"></i>
+</div>
+
+<div>
+<h1 class="typing-projects"></h1>
+<p id="repoCount">Loading repositories...</p>
+</div>
+
+</div>
+
+</section>
+
+<!-- SEARCH -->
+
+<section class="search-section">
+
+<input
+type="text"
+id="searchInput"
+placeholder="Search projects..."
+>
+
+</section>
+
+<!-- FILTERS -->
+
+<section class="filter-section">
+
+<button class="filter-btn">AWS</button>
+<button class="filter-btn">Terraform</button>
+<button class="filter-btn">Docker</button>
+<button class="filter-btn">Kubernetes</button>
+<button class="filter-btn">GitHub</button>
+<button class="filter-btn">Linux</button>
+<button class="filter-btn">DevOps</button>
+
+</section>
+
+<!-- REPOSITORIES -->
+
+<section class="repo-section">
+
+<div id="repoGrid" class="repo-grid"></div>
+
+</section>
+
+<div id="pagination" class="pagination"></div>
+
+<footer class="footer-box">
+
+<div class="footer-left">
+© 2026 TANVEER RABBANI — All rights reserved.
+</div>
+
+<p class="quote">
+✨ Learning is My Habit. Growing is My Goal.
+</p>
+
+<button id="backToTop" class="back-top">
+<i class="fas fa-arrow-up"></i>
+Back To Top
+</button>
+
+</footer>
+
+<script src="projects.js"></script>
+
+</body>
+
+</html>

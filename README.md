@@ -6,7 +6,7 @@ Welcome to my personal portfolio repository! This website showcases my journey, 
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Live
 
 🔗 https://my-personal-portfolio-wine-six.vercel.app
 
